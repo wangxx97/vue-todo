@@ -89,7 +89,8 @@
         line-height 1.4em
         border none
         outline none
-        color inherit
+        /*color inherit*/
+        color #d4c12f
         box-sizing border-box
         font-smoothing antialiased
         padding 16px 16px 16px 36px

@@ -53,6 +53,7 @@
         background-color #ffffff
         font-size 14px
         font-smoothing antialiased
+        color #d4c12f
     .left, .clear, .tabs
         padding 0 10px
     .left .clear

@@ -72,7 +72,8 @@
         height 40px
         margin auto 0
         font-size 30px
-        color #cc9a9a
+        /*color #cc9a9a*/
+        color #d4c12f
         margin-bottom 11px
         transition color 0.2s ease-out
         background-color transparent
